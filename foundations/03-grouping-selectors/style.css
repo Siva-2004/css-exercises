@@ -1,0 +1,14 @@
+.edit1, .edit2{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.edit1{
+    background-color: black;
+    color :white;
+    font-weight: bold;
+}
+
+.edit2{
+    background-color: yellow;
+}
